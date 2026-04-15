@@ -11,7 +11,7 @@ claude plugins marketplace add Join-Ground-AI/Ground-Retention-Skills
 
 **Step 2: Install the plugin**
 ```bash
-claude plugins install ground-retention-skills@ground-retention
+claude plugins install ground-retention@Ground-Retention-Skills
 ```
 
 That's it. All 13 skills are now available — just describe what you need in plain English.
